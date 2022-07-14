@@ -26,7 +26,7 @@ Workshop will be held from 9am - 4pm on Sunday, July 24th, 2022. Workshop attend
 | | LUNCH |
 | [1:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2130000&p1=18) - [2:20](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2220000&p1=18) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Stefano Fochesatto) |
 | | 10 MINUTE BREAK |
-| [2:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2230000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_leaf_machine) Leaf Machine demonstration (presenter: Will Weaver) |
+| [2:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2230000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_leaf_machine) Creating annotated datasets (presenter: Will Weaver) |
 | | 10 MINUTE BREAK |
 | [3:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2310000&p1=18) - [4:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2400000&p1=18) | [Module 6:](6_model_validation) Model training and validation (presenter: Richie Hodel) |
 
