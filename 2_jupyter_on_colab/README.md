@@ -1,4 +1,4 @@
-# BOTANY 2022 Workshop module 2 placeholder
+# BOTANY 2022 Workshop module 2
 
 # Botany Conference Intro to Python/Jupyter
 
