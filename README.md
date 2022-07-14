@@ -9,7 +9,7 @@ There are six sessions, five of which will be hands-on. There is a separate dire
 2. Using jupyter notebooks on Google Colab
 3. Acquiring and manipulating digitized herbarium images
 4. Image data processing and manipulation
-5. Leaf Machine demonstration
+5. Creating annotated datasets
 6. Model validation
 
 ## Schedule
