@@ -26,12 +26,12 @@ Below is the notebook that we will be referencing throughout this module. I reco
 and play around with the emptied version later on. 
 
 * A "completed" version with all code cells populated: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/richiehodel/Botany2022_DLworkshop/blob/main/4_data_processing/Module_4__Data_Processing_Complete.ipynb)
 
 * An "emptied" version with headings and some explanations, so that we can code along:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/richiehodel/Botany2022_DLworkshop/blob/main/4_data_processing/Module_4__Data_Processing_Emptied.ipynb)
 
 ### Supplementary Scripts
-    * [Batch Processing (Directory Management Libraries)](link)
-    * [Leaf Segmentation Script](link)
+[Batch Processing (Directory Management Libraries)](link)
+[Leaf Segmentation Script](link)
 
