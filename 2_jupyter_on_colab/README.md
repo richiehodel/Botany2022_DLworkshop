@@ -4,7 +4,7 @@
 
 * What is Python?
 * What is Jupyter?
-    * And then what is Colab
+    * And what is Colab
 
 ## Python Intro
 
@@ -25,3 +25,4 @@ Mostly taken from https://datacarpentry.org/python-ecology-lesson/01-short-intro
 * Functions
 * Importing Python packages
     * Interlude to explain standard library vs. what can be installed vs. what is already installed on Colab
+2
