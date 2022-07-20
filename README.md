@@ -34,8 +34,14 @@ We can follow the workshop with informal discussion about using deep learning in
 
 ## Resources
 
+Etherpad for discussion today:
+
 https://etherpad.wikimedia.org/p/Botany2022_DLworkshop
 
+Botany Code of Conduct:
+
 https://botanyconference.org/file.php?file=SiteAssets/2022_code_of_conduct.pdf
+
+Link to open jupyter notebooks from github in google colab:
 
 https://colab.research.google.com/github/
