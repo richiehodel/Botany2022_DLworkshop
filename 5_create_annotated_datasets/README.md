@@ -8,15 +8,14 @@ Other types of ML networks can be used for other tasks: object detectors place b
 Here we will train an object classifier to predict the class for a set of rulers that are commonly present in herbarium specimen vouchers. We have a directory filled with rulers that are already grouped into 22 classes including a “fail” class for non-ruler objects. These are our ground truth training data. For this simplicity in this workshop, we will not split our training data into train/validation/test groups, but this is a crucial step of ML development, and it is standard practice to partition annotated data into train/validation/test groups in a roughly 70/15/15 or 60/20/20 ratio. 
 # Getting Started
 
-Here is a link to the Colab notebook inside of the module 5 github folder: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Botany_WorkShop_Train_Object_Classifier.ipynb)
-Once you open the link, click "open in Colab."
+Here is a link to the Colab notebook inside of the module 5 github folder: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/5_create_annotated_datasets/Botany_WorkShop_Train_Object_Classifier.ipynb)
 
 If the above link does not work, here is an alternate link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1koHbxPoTn_lGU-Y9upCa_BOI3JuD3Wrj?usp=sharing)
-If using this alternate link, make a copy of the notebook in your own account so that you can edit and save any changes to the code.
+If you use this alternate link, make a copy of the notebook in your own account so that you can edit and save any changes to the code.
 
 **Please run the first 4 code blocks as soon as you open your copy of the notebook, installing the required packages and downloading the data will take a few minutes.**
 
-Once you open the Colab notebook and download the data, you will see three different training datasets: tiny, small, large. For the workshop, please only use the tiny datasets because training on more images will take too much time. We will also need to switch the default CPU runtime in our Colab notebook to a GPU runtime. Using a GPU is ~5 times faster than using a CPU. 
+Once you open the Colab notebook and download the data, you will see three different training datasets: tiny, small, large. For the workshop, please only use the tiny dataset because training on more images will take too much time. We will also need to switch the default CPU runtime in our Colab notebook to a GPU runtime. Using a GPU is ~5 times faster than using a CPU. 
 
 Trained ML networks are also provided if you want to skip the training step.
 # Evaluate Model
