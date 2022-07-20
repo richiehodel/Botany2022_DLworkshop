@@ -7,9 +7,10 @@ Other types of ML networks can be used for other tasks: object detectors place b
 
 Here we will train an object classifier to predict the class for a set of rulers that are commonly present in herbarium specimen vouchers. We have a directory filled with rulers that are already grouped into 22 classes including a “fail” class for non-ruler objects. These are our ground truth training data. For this simplicity in this workshop, we will not split our training data into train/validation/test groups, but this is a crucial step of ML development, and it is standard practice to partition annotated data into train/validation/test groups in a roughly 70/15/15 or 60/20/20 ratio. 
 # Getting Started
-Here is a link to the Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1koHbxPoTn_lGU-Y9upCa_BOI3JuD3Wrj?usp=sharing)
 
-Or use the notebook inside of the module 5 github folder if the link does not work for you. 
+Here is a link to the Colab notebook inside of the module 5 github folder: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Botany_WorkShop_Train_Object_Classifier.ipynb)
+
+Otherwise, here is an alternate link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1koHbxPoTn_lGU-Y9upCa_BOI3JuD3Wrj?usp=sharing)
 
 As soon as you open the link, make a copy of the notebook in your own account so that you can edit and save any changes to the code.
 
