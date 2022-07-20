@@ -32,8 +32,10 @@ Workshop will be held from 9am - 4pm on Sunday, July 24th, 2022. Workshop attend
 
 We can follow the workshop with informal discussion about using deep learning in botanical research applications from 4-5pm
 
-## Dataset
+## Resources
 
-The image dataset for use in this workshop can be downloaded here: INSERT LINK
+https://etherpad.wikimedia.org/p/Botany2022_DLworkshop
 
-The dataset is provided for your reference; however, it is not necessary to download the dataset to your local computer in order to participate in the hands-on portions of the workshop.
+https://botanyconference.org/file.php?file=SiteAssets/2022_code_of_conduct.pdf
+
+https://colab.research.google.com/github/
