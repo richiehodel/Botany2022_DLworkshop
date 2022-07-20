@@ -1,6 +1,6 @@
-# BOTANY 2022 Workshop 
+# BOTANY 2022 Workshop module 3
 
-# Acquiring images (Module 3)
+# Acquiring images
 
 This directory contains a Python notebook designed to be a standalone tutorial demonstrating how you can acquire images from the [iDigBio portal](https://www.idigbio.org/portal/search) based on your own research scope. For the remainder of the lessons in today's workshop we will be using a standard set of images provided by the workshop instructors. This module will show you how that set of images was originally acquired, and provide an opportunity for you to test out downloading images yourself.
 
