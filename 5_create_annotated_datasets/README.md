@@ -9,10 +9,10 @@ Here we will train an object classifier to predict the class for a set of rulers
 # Getting Started
 
 Here is a link to the Colab notebook inside of the module 5 github folder: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Botany_WorkShop_Train_Object_Classifier.ipynb)
+Once you open the link, click "open in Colab."
 
-Otherwise, here is an alternate link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1koHbxPoTn_lGU-Y9upCa_BOI3JuD3Wrj?usp=sharing)
-
-As soon as you open the link, make a copy of the notebook in your own account so that you can edit and save any changes to the code.
+If the above link does not work, here is an alternate link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1koHbxPoTn_lGU-Y9upCa_BOI3JuD3Wrj?usp=sharing)
+If using this alternate link, make a copy of the notebook in your own account so that you can edit and save any changes to the code.
 
 Please run the first 4 code blocks as soon as you open your copy of the notebook, installing the required packages and downloading the data will take a few minutes.
 
