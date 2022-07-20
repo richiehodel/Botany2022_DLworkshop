@@ -1,4 +1,4 @@
-# BOTANY 2022 Workshop module 3 placeholder
+# BOTANY 2022 Workshop 
 
 # Acquiring images (Module 3)
 
