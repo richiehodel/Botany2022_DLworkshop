@@ -33,5 +33,6 @@ and play around with the emptied version later on.
 
 ### Supplementary Scripts
 [Batch Processing (Directory Management Libraries)](link)
-[Leaf Segmentation Script](link)
+
+[Leaf Segmentation Script](https://github.com/StefanoFochesatto/Leaf-Segmentation-Tool)
 
