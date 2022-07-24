@@ -32,7 +32,7 @@ and play around with the emptied version later on.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/4_data_processing/Module_4__Data_Processing_Emptied.ipynb)
 
 ### Supplementary Scripts
-[Batch Processing (Directory Management Libraries)](link)
+[(Otsu) Batch Thresholding](https://stefanofochesatto.github.io/research.html#Applying_the_Initial_Segmentation)
 
 [Leaf Segmentation Script](https://github.com/StefanoFochesatto/Leaf-Segmentation-Tool)
 
