@@ -19,16 +19,16 @@ Workshop will be held from 9am - 4pm on Sunday, July 24th, 2022. Workshop attend
 | --- | --- |
 | [9:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T170000&p1=18) - [9:15](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T171500&p1=18) | Introduction |
 | [9:20](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T172000&p1=18) - [9:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T175000&p1=18) | [Module 1:](1_case_studies) Case studies illustrating how researchers are using deep learning (presenter: Pam Soltis) |
+| | 25 MINUTE COFFEE BREAK |
+| [10:15](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T181500&p1=18) - [11:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T190000&p1=18) | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Sundre Winslow) |
 | | 10 MINUTE BREAK |
-| [10:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T180000&p1=18) - [10:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T185000&p1=18) | [Module 2:](2_jupyter_on_colab) Introduction to python, jupyter notebooks, and google colab (presenter: Sundre Winslow) |
-| | 10 MINUTE BREAK |
-| [11:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T190000&p1=18) - [11:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T195000&p1=18) | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Richie Hodel) |
+| [11:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T191000&p1=18) - [11:50](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T195000&p1=18) | [Module 3:](3_image_acquisition) Acquiring and manipulating digitized herbarium images (presenter: Richie Hodel) |
 | | LUNCH |
-| [1:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2130000&p1=18) - [2:20](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2220000&p1=18) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Stefano Fochesatto) |
+| [1:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2110000&p1=18) - [2:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2200000&p1=18) | [Module 4:](4_data_processing) Data processing and manipulation options (presenter: Stefano Fochesatto) |
 | | 10 MINUTE BREAK |
-| [2:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2230000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
-| | 10 MINUTE BREAK |
-| [3:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2310000&p1=18) - [4:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2400000&p1=18) | [Module 6:](6_model_training) Model training and validation (presenter: Richie Hodel) |
+| [2:10](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2210000&p1=18) - [3:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2300000&p1=18) | [Module 5:](5_create_annotated_datasets) Creating annotated datasets and How to train an object classifier (presenter: Will Weaver) |
+| | 30 MINUTE COFFEE BREAK |
+| [3:30](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2330000&p1=18) - [4:00](https://www.timeanddate.com/worldclock/converter.html?iso=20220724T2400000&p1=18) | [Module 6:](6_model_training) Model training and validation (presenter: Richie Hodel) |
 
 We can follow the workshop with informal discussion about using deep learning in botanical research applications from 4-5pm
 
@@ -45,3 +45,7 @@ https://botanyconference.org/file.php?file=SiteAssets/2022_code_of_conduct.pdf
 Link to open jupyter notebooks from github in google colab:
 
 https://colab.research.google.com/github/
+
+Post workshop survey:
+
+https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_e2uXtOfjuI87a98
