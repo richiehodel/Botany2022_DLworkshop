@@ -4,7 +4,7 @@
 
 
 * A "completed" version where all code has been executed so that you can see the results: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/6_model_training/Module_6_training_not_run.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/6_model_training/Module_6_training_complete.ipynb)
 
 * A "ready to run" version that you can execute the code in for yourself, or copy and edit as you wish:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/Botany2022_DLworkshop/blob/main/6_model_training/Module_6_training_not_run.ipynb)
